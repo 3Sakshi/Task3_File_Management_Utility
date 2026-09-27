@@ -62,11 +62,11 @@ Test result:
 
 ## Error Handling
 The application handles common file management errors such as:
-Invalid input
-Empty paths
-Non-existent paths
-Invalid directory operations
-Missing source files or folders
+- Invalid input
+- Empty paths
+- Non-existent paths
+- Invalid directory operations
+- Missing source files or folders
 
 ## Learning Outcomes
 Through this project, I practiced:
