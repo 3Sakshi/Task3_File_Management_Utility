@@ -39,15 +39,15 @@ python main.py
 
 ## Menu Options
 The utility provides the following operations:
-Create Folder
-Create File
-List Items
-Search Items
-Copy Item
-Move Item
-Delete Item
-File/Folder Information
-Exit
+1. Create Folder
+2. Create File
+3. List Items
+3. Search Items
+4. Copy Item
+5. Move Item
+7. Delete Item
+8. File/Folder Information
+9. Exit
 
 ## Testing
 Automated tests are written using pytest.
