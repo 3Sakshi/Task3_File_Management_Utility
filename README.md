@@ -27,3 +27,50 @@ Task3_File_Management_Utility/
 ├── file_manager.py
 ├── validators.py
 └── test_file_manager.py
+
+## How to Run
+Clone or download the repository.
+Open the project folder in a Python environment.
+Run:
+python main.py
+
+## Menu Options
+The utility provides the following operations:
+Create Folder
+Create File
+List Items
+Search Items
+Copy Item
+Move Item
+Delete Item
+File/Folder Information
+Exit
+
+## Testing
+Automated tests are written using pytest.
+Run:
+pytest -q
+Test result:
+8 passed
+
+## Error Handling
+The application handles common file management errors such as:
+Invalid input
+Empty paths
+Non-existent paths
+Invalid directory operations
+Missing source files or folders
+
+## Learning Outcomes
+Through this project, I practiced:
+Python file and folder handling
+pathlib for path management
+shutil for copy, move, and delete operations
+Input validation
+Exception handling
+Modular Python programming
+Automated testing with pytest
+GitHub project documentation
+
+## Author
+Sakshi Tayade
